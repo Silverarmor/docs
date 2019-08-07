@@ -41,13 +41,13 @@ const options = {
                             '/'
                         ]
                     },
-                    {
-                        title: 'Module 📦',
-                        collapsable: false,
-                        children: modules_de.map(file => `/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
-                    },
                     '/suggestions',
                     '/support',
+                    {
+                        title: 'Module 📦',
+                        collapsable: true,
+                        children: modules_de.map(file => `/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
                 ],
             },
             '/en/': {
