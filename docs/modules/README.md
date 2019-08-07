@@ -4,10 +4,31 @@ lang: de
 ---
 
 # Module :package:
+Der Appstore und die EInstellungen sind über den LSSM-Indikator ![LSSM-Indikator](/img/lssm_navbar.png) erreichbar.
+
+Ein Klick darauf öffnet ein Dropdown-Menü mit Links zu AppStore und Einstellungen. Unter Umständen befinden sich ebenfalls einzelne Links zu Modulen dort.
+
+Der eifache Klick auf den jeweiligen Eintrag öffnet ein Fenster mit dem jeweiligen Inhalt.
 
 ## AppStore
+Unser AppStore ist das wichtigste am ganzen LSS-Manager.
+
+Hier sind alle verfügbaren Module aufgelistet und du kannst jedes einzeln (de-)aktivieren.
+
+::: tip
+**Tipp**: Mit einem Klick auf einen Modulnamen öffnet sich eine kurze Beschreibung
+:::
+
+Das Fenster schliesst man mit einem Klick ausserhalb oder über das `x` oben rechts. Die Änderungen werden mit dem Schliessen übernommen. Ggf. wird die Seite automatisch neu geladen um alle Module einwandfrei zu (de-)aktivieren. 
 
 ## Einstellungen
+Hier werden alle Einstellungen des LSSM zentral verwaltet. Es können nur die Einstellungen aktiver Module verändert werden.
+
+Die Einstellungen können ebenfalls über die jeweiligen Knöpfe exportiert und importiert werden. Das ermöglicht einen Austausch der Einstellungen und aktiven Module mit anderen Nutzern.
+
+::: warning
+**Wichtig**: Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knopf gedrückt wurde.
+:::
 
 ### Center-Map
 
