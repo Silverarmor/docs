@@ -1,4 +1,20 @@
+---
+title: Allgemein
+lang: de
+sidebarDepth: 3
+---
+
 # Wiki :de: <Badge text="LSSM Stable 3.3.5"/>
+
+
+## Über den LSSM
+
+Der LSS MANAGER V3 ist eine Erweiterung für das Spiel www.leitstellenspiel.de.
+
+Mit dieser Erweiterung wird ein Appstore zum Spiel hinzugefügt, welches das Installieren von Plugins ermöglicht. Dabei sind alle Funktionen Modular aufgebaut - man kann bis auf den letzten Baustein bestimmen, was alles aktiviert werden soll.
+
+Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verwaltung natürlich sehr einfach und sorgt für eine bessere Performance.
+
 
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten.md)
@@ -28,92 +44,3 @@ Solltest du dich im Leitstellenspiel befinden, aber diesen Indikator nicht in de
 
 Bei Problemen kannst du dich jederzeit an den [Support](#support) wenden.
 
-## Module :package:
-
-### AAO-Klick-Zähler
-
-### AAO-Suche
-
-### Center-Map
-
-### Clock
-
-### Creditserweiterung
-
-### Dashboard
-
-### Eigene VGE speichern
-
-### Einsatzhelfer
-
-### Einsatzstichworte
-
-### Einsätze freigeben
-
-### Einsätze suchen
-
-### Erweiterte Gebäudeansicht
-
-### Fahrzeuge umbenennen
-
-### FMS 5 in der Karte
-
-### Icon Gebäude Filter
-
-### Keyboard Alarmierung
-
-### Layout 01
-
-### Layout 02
-
-### Layout 03
-
-### Layout 04
-
-### LS-Heatmap
-
-### Markiert Eventeinsätze
-
-### Maßgeschneiderte Tabs
-
-### Meldedatum für Einsätze
-
-### Missionout
-
-### NEF Nachforderung per FMS
-
-### Notification Alert
-
-### Redesign 01
-
-### Release Notes
-
-### Show Backalarm above
-
-### Show Chatbutton above
-
-### Show Patient entlassen above
-
-### Status-Zähler
-
-### Summe für die tägliche Zusammenfassung
-
-### User-ID
-
-### Verbandsverwaltung
-
-### Verbesserte Status 5
-
-### Vonginator
-
-### Wachen Status
-
-### Wachenplanung auf der Karte
-
-### Zielort Filter
-
-### Übersicht
-
-## Vorschläge :bulb:
-
-## Support :man_technologist:

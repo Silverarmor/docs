@@ -14,21 +14,35 @@ module.exports = {
         nav: [
             {
                 text: 'Discord',
-                link: 'https://discord.gg/RcTNjpB'
+                link: 'https://discord.gg/RcTNjpB',
+            },
+            {
+                text: 'Über',
+                link: '/about'
+            },
+            {
+                text: 'Metadaten',
+                link: '/metadaten'
             }
         ],
-        locales: {
-            '/': {
-                label: '🇩🇪 Leitstellenspiel.de'
+        sidebar: [
+            {
+                title: 'LSSM',
+                collapsable: false,
+                children: [
+                    '/'
+                ]
             },
-            '/en/': {
-                label: '🇺🇸 Missionchief.com'
-            },
-            '/nl/': {
-                label: '🇳🇱 Meldkamerspel.com'
+            {
+                title: 'Module',
+                collapsable: false,
+                children: [
+                    '/module/',
+                    '/module/layout-01',
+                    '/module/aao-klick-zaehler'
+                ]
             }
-        },
-        sidebar: 'auto'
+        ]
     },
     locales: {
         '/': {
