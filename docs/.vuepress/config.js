@@ -74,7 +74,7 @@ const options = {
                         title: 'LSSM',
                         collapsable: false,
                         children: [
-                            '/nl'
+                            '/nl/'
                         ]
                     },
                     {

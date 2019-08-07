@@ -1,14 +1,17 @@
-# Wiki :netherlands:
+---
+title: Algemeen
+lang: nl
+sidebarDepth: 2
+---
+
+# Wiki :netherlands: <Badge text="LSSM Stable 3.3.5"/>
+
+## Over de LSSM
 
 ## Installatie :inbox_tray:
 
-## Modules :package:
+### Eerste stap: Tampermonkey
 
-### AUR-Klik-Teller
-![AUR-Klik-Teller](/modules/aao-zaehler/nl.png)
+### Tweede stap: Userscript
 
-Deze module telt hoe vaak u al op een Alarm en Uitrukregels of een Voertuiggroep in het alarm venster heeft geklikt. Met de resetknop in de linkerbenedenhoek kunnen alle tellers worden gereset.
-
-## Suggesties :bulb:
-
-## Support :man_technologist:
+### Derde stap: Activate
