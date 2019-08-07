@@ -2,7 +2,7 @@
 sidebar: false
 ---
 
-# Erheben von Metadaten der User
+# Erheben von Metadaten der Nutzer
 
 Mit der Nutzung des `LSSM` (Leitstellenspiel Manager, Erweiterung für den Browser) akzeptiert der User, das Metadaten erhoben werden. Es werden folgende Daten gespeichert: `User ID`, `Username`, `User Gebäude`, `User Browser`, `Letzter Aufruf des Scripts`, `aktivierte Module`, `Spielherkunft` & `LSSM Version`.
 
