@@ -14,7 +14,7 @@ module.exports = {
         nav: [
             {
                 text: 'Discord',
-                link: 'https://discord.gg/huMNSA4'
+                link: 'https://discord.gg/RcTNjpB'
             }
         ],
         locales: {
