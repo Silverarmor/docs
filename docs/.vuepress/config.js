@@ -1,5 +1,4 @@
 module.exports = {
-    base: '/wiki/',
     title: 'LSS-Manager (V.3) Wiki',
     description: 'The Wiki for the LSS-Manager.de',
     port: 1024,
