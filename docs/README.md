@@ -1,7 +1,7 @@
 ---
 title: Allgemein
 lang: de
-sidebarDepth: 3
+sidebarDepth: 2
 ---
 
 # Wiki :de: <Badge text="LSSM Stable 3.3.5"/>
@@ -39,7 +39,7 @@ Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du ent
 <<< lssm-v3.user.js{4}
 
 ### Schritt 3: Aktivieren
-Folgendes ist der Indikator für einen aktiven LSS-Manager: ![LSSM-INdikator](/img/lssm_navbar.png)
+Folgendes ist der Indikator für einen aktiven LSS-Manager: ![LSSM-Indikator](/img/lssm_navbar.png)
 Solltest du dich im Leitstellenspiel befinden, aber diesen Indikator nicht in der oberen rechten Ecke sehen, so klicke auf das Tampermonkey-Icon in deinem Browser und überprüfe, ob der Schalter für das LSS-Manager Script auf "an" gestellt ist.
 
 Bei Problemen kannst du dich jederzeit an den [Support](/support) wenden.
