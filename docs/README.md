@@ -1,4 +1,4 @@
-# Wiki :de:
+# Wiki :de: <Badge text="LSSM Stable 3.3.5"/>
 
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten.md)
@@ -13,10 +13,12 @@ Firefox| [Download](https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
 Safari | [Download](https://safari.tampermonkey.net/tampermonkey.safariextz)
 Opera  | [Download](https://addons.opera.com/en/extensions/details/tampermonkey-beta/)
 
+Für sontige Browser kann man Tampermonkey auf [tampermonkey.net](https://www.tampermonkey.net/) herunterladen.
+
 Bitte beachte, dass wir ältere Browser, sowie mobile Browser und Microsoft Edge bzw. Internet Explorer nicht offiziell unterstützen. Der Support für diese Browser ist also weder garantiert, noch wahrscheinlich.
 
 ### Schritt 2: Userscript
-Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du entweder [`hier`](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) klicken oder ein neues Userscript mit folgendem Inhalt anlegen:
+Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du entweder [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) klicken oder ein neues Userscript mit folgendem Inhalt anlegen:
 
 <<< lssm-v3.user.js{4}
 
@@ -28,19 +30,90 @@ Bei Problemen kannst du dich jederzeit an den [Support](#support) wenden.
 
 ## Module :package:
 
-### Einsatzhelfer
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-### Status-Zähler
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
+### AAO-Klick-Zähler
 
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
+### AAO-Suche
+
+### Center-Map
+
+### Clock
+
+### Creditserweiterung
+
+### Dashboard
+
+### Eigene VGE speichern
+
+### Einsatzhelfer
+
+### Einsatzstichworte
+
+### Einsätze freigeben
+
+### Einsätze suchen
+
+### Erweiterte Gebäudeansicht
+
+### Fahrzeuge umbenennen
+
+### FMS 5 in der Karte
+
+### Icon Gebäude Filter
+
+### Keyboard Alarmierung
+
+### Layout 01
+
+### Layout 02
+
+### Layout 03
+
+### Layout 04
+
+### LS-Heatmap
+
+### Markiert Eventeinsätze
+
+### Maßgeschneiderte Tabs
+
+### Meldedatum für Einsätze
+
+### Missionout
+
+### NEF Nachforderung per FMS
+
+### Notification Alert
+
+### Redesign 01
+
+### Release Notes
+
+### Show Backalarm above
+
+### Show Chatbutton above
+
+### Show Patient entlassen above
+
+### Status-Zähler
+
+### Summe für die tägliche Zusammenfassung
+
+### User-ID
+
+### Verbandsverwaltung
+
+### Verbesserte Status 5
+
+### Vonginator
+
+### Wachen Status
+
+### Wachenplanung auf der Karte
+
+### Zielort Filter
+
+### Übersicht
 
 ## Vorschläge :bulb:
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. 
-
-Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat. 
-
-Ut wisi enim ad minim veniam, quis nostrud exerci tation ullamcorper suscipit lobortis nisl ut aliquip ex ea commodo consequat. Duis autem vel eum iriure dolor in hendrerit in vulputate velit esse molestie consequat, vel illum dolore eu feugiat nulla facilisis at vero eros et accumsan et iusto odio dignissim qui blandit praesent luptatum zzril delenit augue duis dolore te feugait nulla facilisi. 
 
 ## Support :man_technologist:
-Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam
