@@ -32,7 +32,6 @@ const options = {
                         link: '/metadaten'
                     }
                 ],
-
                 sidebar: [
                     {
                         title: 'LSSM',
