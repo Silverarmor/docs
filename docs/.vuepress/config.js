@@ -9,7 +9,10 @@ const options = {
     description: 'The Wiki for the LSS-Manager.de',
     port: 1024,
     head: [
-        ['link', { rel: 'icon', href: '/img/lssm.png' }]
+        ['link', {
+            rel: 'icon',
+            href: '/img/lssm.png'
+        }]
     ],
     markdown: {
         sluglify: '',
@@ -17,24 +20,19 @@ const options = {
     },
     themeConfig: {
         logo: '/img/lssm.png',
-        nav: [
-            {
-                text: 'Discord',
-                link: 'https://discord.gg/RcTNjpB',
-            }
-        ],
+        nav: [{
+            text: 'Discord',
+            link: 'https://discord.gg/RcTNjpB',
+        }],
         locales: {
             '/': {
                 label: '🇩🇪 Leitstellenspiel.de',
-                nav: [
-                    {
-                        text: 'Metadaten',
-                        link: '/metadaten'
-                    }
-                ],
+                nav: [{
+                    text: 'Metadaten',
+                    link: '/metadaten'
+                }],
 
-                sidebar: [
-                    {
+                sidebar: [{
                         title: 'LSSM',
                         collapsable: false,
                         children: [
@@ -53,14 +51,21 @@ const options = {
             },
             '/en/': {
                 label: '🇺🇸 Missionchief.com',
-                sidebar: [
-                    {
+                nav: [{
+                    text: 'Metadata',
+                    link: '/en/metadata'
+                }],
+
+                sidebar: [{
                         title: 'LSSM',
                         collapsable: false,
                         children: [
                             '/en/'
                         ]
                     },
+                    '/en/suggestions',
+                    '/en/support',
+                    '/en/error_report',
                     {
                         title: 'Modules 📦',
                         collapsable: false,
@@ -70,8 +75,7 @@ const options = {
             },
             '/nl/': {
                 label: '🇳🇱 Meldkamerspel.com',
-                sidebar: [
-                    {
+                sidebar: [{
                         title: 'LSSM',
                         collapsable: false,
                         children: [
