@@ -27,12 +27,14 @@ const options = {
         locales: {
             '/': {
                 label: '🇩🇪 Leitstellenspiel.de',
-                nav: [{
-                    text: 'Metadaten',
-                    link: '/metadaten'
-                }],
-
-                sidebar: [{
+                nav: [
+                    {
+                        text: 'Metadaten',
+                        link: '/metadaten'
+                    }
+                ],
+                sidebar: [
+                    {
                         title: 'LSSM',
                         collapsable: false,
                         children: [
