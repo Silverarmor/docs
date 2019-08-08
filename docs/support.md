@@ -8,7 +8,8 @@ sidebarDepth: 2
 
 ## Guideline
 Eine kleine Hilfe, die beim Erstellen einer Supportanfrage helfen soll.
-::: tip
+
+:::tip
 Wenn du Hilfe benötigst, beschreibe dein Problem so genau wie möglich. Je besser und detaillierter du dein Problem beschreibst, desto schneller und besser können wir dir helfen.
 :::
 
