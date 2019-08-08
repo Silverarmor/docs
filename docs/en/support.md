@@ -8,9 +8,10 @@ sidebarDepth: 2
 
 ## Guideline
 A small help for creating a support ticket.
-:::tip
+
+::: tip
 If you need help, describe your problem as detailed as possible. As more detailed you describe your problem as faster and beter we can help you.
-::
+:::
 
 ### 1. Word out your Problem
 At first describe your problem. Deliver every piece of information that could be necessary. Also say what you already tried to do to fix the problem.
