@@ -1,7 +1,7 @@
 ---
 title: Fehler melden
 lang: de
-sidebar-depth: 2
+sidebarDepth: 2
 ---
 
 # Fehler melden

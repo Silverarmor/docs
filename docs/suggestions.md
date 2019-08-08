@@ -1,7 +1,7 @@
 ---
 title: Vorschläge 💡
 lang: de
-sidebar-depth: 2
+sidebarDepth: 2
 ---
 
 # Vorschläge :bulb:
