@@ -20,10 +20,20 @@ const options = {
     },
     themeConfig: {
         logo: '/img/lssm.png',
-        nav: [{
-            text: 'Discord',
-            link: 'https://discord.gg/RcTNjpB',
-        }],
+        docsRepo: 'lss-manager/docs',
+        docsDir: 'docs',
+        docsBranch: 'dev',
+        editLinks: true,
+        nav: [
+            {
+                text: 'Discord',
+                link: 'https://discord.gg/RcTNjpB',
+            },
+            {
+                text: 'GitHub',
+                link: 'https://github.com/LSS-Manager/lss-manager-v3'
+            }
+        ],
         locales: {
             '/': {
                 label: '🇩🇪 Leitstellenspiel.de',
@@ -53,12 +63,14 @@ const options = {
             },
             '/en/': {
                 label: '🇺🇸 Missionchief.com',
-                nav: [{
-                    text: 'Metadata',
-                    link: '/en/metadata'
-                }],
-
-                sidebar: [{
+                nav: [
+                    {
+                        text: 'Metadata',
+                        link: '/en/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
                         title: 'LSSM',
                         collapsable: false,
                         children: [
@@ -77,7 +89,8 @@ const options = {
             },
             '/nl/': {
                 label: '🇳🇱 Meldkamerspel.com',
-                sidebar: [{
+                sidebar: [
+                    {
                         title: 'LSSM',
                         collapsable: false,
                         children: [
