@@ -43,6 +43,7 @@ const options = {
                     },
                     '/suggestions',
                     '/support',
+                    '/error_report',
                     {
                         title: 'Module 📦',
                         collapsable: true,
