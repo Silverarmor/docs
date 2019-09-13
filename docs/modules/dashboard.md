@@ -4,4 +4,4 @@ lang: de
 ---
 
 # Dashboard
-Das Dashboard ist ein Modul
+Das Dashboard erhält eine detaillierte Wiki-Seite, sobald es überarbeitet ist.
