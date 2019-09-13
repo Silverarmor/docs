@@ -30,10 +30,6 @@ Die Einstellungen können ebenfalls über die jeweiligen Knöpfe exportiert und 
 **Wichtig**: Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knopf gedrückt wurde.
 :::
 
-### Dashboard
-
-### Eigene VGE speichern
-
 ### Einsatzhelfer
 
 ### Einsatzstichworte
