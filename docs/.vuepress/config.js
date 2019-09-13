@@ -120,9 +120,16 @@ const options = {
             title: 'LSS-Manager (V.3) Wiki 🇳🇱'
         }
     },
-    plugins: [
-        '@vuepress/back-to-top'
-    ]
+    plugins: {
+        '@vuepress/back-to-top': {},
+        '@vuepress/last-updated': {
+            transformer(timestamp, lang) {
+                const moment = require('moment');
+                moment.locale(lang);
+                return moment(timestamp).fromNow();
+            }
+        }
+    }
 };
 
 for (let locale in options.themeConfig.locales) {
