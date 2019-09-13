@@ -98,7 +98,7 @@ const options = {
                         ]
                     },
                     {
-                        title: 'Modulel 📦',
+                        title: 'Modules 📦',
                         collapsable: true,
                         children: modules_nl.map(file => `/nl/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
@@ -119,7 +119,10 @@ const options = {
             lang: 'nl',
             title: 'LSS-Manager (V.3) Wiki 🇳🇱'
         }
-    }
+    },
+    plugins: [
+        '@vuepress/back-to-top'
+    ]
 };
 
 for (let locale in options.themeConfig.locales) {
