@@ -4,3 +4,4 @@ lang: de
 ---
 
 # Dashboard
+Das Dashboard ist ein Modul

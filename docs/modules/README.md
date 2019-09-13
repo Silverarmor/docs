@@ -4,7 +4,7 @@ lang: de
 ---
 
 # Module :package:
-Der Appstore und die EInstellungen sind über den LSSM-Indikator ![LSSM-Indikator](/img/lssm_navbar.png) erreichbar.
+Der Appstore und die Einstellungen sind über den LSSM-Indikator ![LSSM-Indikator](/img/lssm_navbar.png) erreichbar.
 
 Ein Klick darauf öffnet ein Dropdown-Menü mit Links zu AppStore und Einstellungen. Unter Umständen befinden sich ebenfalls einzelne Links zu Modulen dort.
 

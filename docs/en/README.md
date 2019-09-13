@@ -29,7 +29,7 @@ Opera  | [Download](https://addons.opera.com/en/extensions/details/tampermonkey-
 For other Browsers you can download Tampermonkey from [tampermonkey.net](https://www.tampermonkey.net/)
 
 ::: warning
-Please be aware that we don't officially support older browser as well as mobile browsers and Microsoft Edge (Internet Explorer). Support for these browsers is not guaranteed nor probable.
+Please be aware that we don't officially support older browser as well as mobile browsers and Microsoft Edge (Internet Explorer). Support for these browsers is neither guaranteed nor probable.
 :::
 
 ### Second Step: Userscript

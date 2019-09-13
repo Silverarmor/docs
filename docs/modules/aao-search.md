@@ -11,7 +11,7 @@ Mit diesem Modul wird eine Suche in das Einsatzfenster eingebaut. Im normalen Mo
 ![AAO-Suche mit Dropdown](/modules/aao-search/de_dropdown.png)
 
 Im Dropdown-Modus werden alle AAOs in eine Dropdown verschoben.
-Das Modul [AAO-Klick-Zaehler](#aao-klick-zahler) funktioniert im Dropdown-Modus leider nicht. Die Zahlen werden zwar angezeigt aber verändern sich nicht.
+Das Modul [AAO-Klick-Zaehler](aao-zaehler) funktioniert im Dropdown-Modus leider nicht. Die Zahlen werden zwar angezeigt aber verändern sich nicht.
 
 In den Dropdown-Modus wechselt man mit dem Schalthebel über dem Suchfeld.
 

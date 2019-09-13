@@ -82,7 +82,7 @@ const options = {
                     '/en/error_report',
                     {
                         title: 'Modules 📦',
-                        collapsable: false,
+                        collapsable: true,
                         children: modules_en.map(file => `/en/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
@@ -99,7 +99,7 @@ const options = {
                     },
                     {
                         title: 'Modulel 📦',
-                        collapsable: false,
+                        collapsable: true,
                         children: modules_nl.map(file => `/nl/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
