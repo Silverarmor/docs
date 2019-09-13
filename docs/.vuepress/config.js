@@ -9,7 +9,10 @@ const options = {
     description: 'The Wiki for the LSS-Manager.de',
     port: 1024,
     head: [
-        ['link', { rel: 'icon', href: '/img/lssm.png' }]
+        ['link', {
+            rel: 'icon',
+            href: '/img/lssm.png'
+        }]
     ],
     markdown: {
         sluglify: '',
@@ -17,10 +20,18 @@ const options = {
     },
     themeConfig: {
         logo: '/img/lssm.png',
+        docsRepo: 'lss-manager/docs',
+        docsDir: 'docs',
+        docsBranch: 'dev',
+        editLinks: true,
         nav: [
             {
                 text: 'Discord',
                 link: 'https://discord.gg/RcTNjpB',
+            },
+            {
+                text: 'GitHub',
+                link: 'https://github.com/LSS-Manager/lss-manager-v3'
             }
         ],
         locales: {
@@ -32,7 +43,6 @@ const options = {
                         link: '/metadaten'
                     }
                 ],
-
                 sidebar: [
                     {
                         title: 'LSSM',
@@ -53,6 +63,12 @@ const options = {
             },
             '/en/': {
                 label: '🇺🇸 Missionchief.com',
+                nav: [
+                    {
+                        text: 'Metadata',
+                        link: '/en/metadata'
+                    }
+                ],
                 sidebar: [
                     {
                         title: 'LSSM',
@@ -61,6 +77,9 @@ const options = {
                             '/en/'
                         ]
                     },
+                    '/en/suggestions',
+                    '/en/support',
+                    '/en/error_report',
                     {
                         title: 'Modules 📦',
                         collapsable: false,

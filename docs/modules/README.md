@@ -30,12 +30,6 @@ Die Einstellungen können ebenfalls über die jeweiligen Knöpfe exportiert und 
 **Wichtig**: Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knopf gedrückt wurde.
 :::
 
-### Center-Map
-
-### Clock
-
-### Creditserweiterung
-
 ### Dashboard
 
 ### Eigene VGE speichern
