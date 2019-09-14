@@ -1,7 +1,6 @@
 ---
 title: Center-Map
 lang: de
-sidebarDepth: 3
 ---
 
 # Center-Map
