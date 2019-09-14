@@ -8,6 +8,8 @@ sidebarDepth: 2
 
 ## Guideline
 Hier eine kleine Guideline, wie man Fehlermeldungen optimal erstellt.
+
+Bevor du einen Fehler meldest, ist es unter Umständen hilfreich hier im Wiki vorher zu schauen, ob dies nicht eine gewollte Funktion ist, oder bereits bekannt ist. In letzterem Fall ist eventuell sogar eine Lösungsmöglichkeit aufgezeigt.
 ::: tip
 Wenn du einen Fehler melden möchtest, beschreibe ihn immer so genau wie möglich. Je detaillierter deine Fehlermeldung ist, desto schneller können wir dir helfen.
 :::
