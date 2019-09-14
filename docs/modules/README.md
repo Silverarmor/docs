@@ -43,8 +43,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Erweiterte Gebäudeansicht
 
-### Fahrzeuge umbenennen
-
 ### FMS 5 in der Karte
 
 ### Icon Gebäude Filter
