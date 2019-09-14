@@ -19,6 +19,12 @@ Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verw
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten.md)
 
+:::tip Den LSSM am Handy nutzen
+Offiziell unterstützen wir keine mobile Version. Jedoch bietet der Browser Firefox auch in seiner mobilen Version die Möglichkeit, Add-Ons zu nutzen. Wir übernehmen jeddoch keine Garantie für ein ansprechendes Design, sowie die volle Funktionalität bei mobilen Browsern.
+
+Eine offizielle Unterstützung mobiler Browser ist derzeit **nicht** geplant.
+:::
+
 ### Schritt 1: Tampermonkey
 Sofern du Tampermonkey in deinem Browser noch nicht installiert hast, musst du dies noch tun. Hier eine Übersicht der Links für die häufigsten Browser:
 
@@ -38,7 +44,7 @@ Bitte beachte, dass wir ältere Browser, sowie mobile Browser und Microsoft Edge
 ### Schritt 2: Userscript
 Wenn Tampermonkey in deinem Browser erfolgreich installiert wurde, kannst du entweder [hier](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) klicken oder ein neues Userscript mit folgendem Inhalt anlegen:
 
-<<< lssm-v3.user.js{4}
+<<< lssm-v3.user.js
 
 ### Schritt 3: Aktivieren
 Folgendes ist der Indikator für einen aktiven LSS-Manager: ![LSSM-Indikator](/img/lssm_navbar.png)

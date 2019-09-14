@@ -22,6 +22,8 @@ Die Karte wird nicht verändert. Der einzige Unterschied zu einem Spielerlebnis,
 
 Die Karte wird am Anfang so positioniert, dass alle eigenen Einsätze und Wachen sichtbar sind. Aktiviert man ebenfalls den Haken "Verbandseinsätze berücksichtigen", so sind auf der Karte ebenfalls alle Verbandseinsätze zu sehen.
 
+Dies ist der voreingestellte Modus.
+
 ### Voreingestellt
 
 Drückt man auf den "Jetzige Position speichern"-Knopf, so merkt sich der LSSM die Position und Zoomstufe der Karte und nimmt diese beim Laden des Spiels und beim Klicken des Refresh-Buttons wieder an.

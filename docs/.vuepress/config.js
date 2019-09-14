@@ -82,7 +82,7 @@ const options = {
                     '/en/error_report',
                     {
                         title: 'Modules 📦',
-                        collapsable: false,
+                        collapsable: true,
                         children: modules_en.map(file => `/en/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
@@ -98,8 +98,8 @@ const options = {
                         ]
                     },
                     {
-                        title: 'Modulel 📦',
-                        collapsable: false,
+                        title: 'Modules 📦',
+                        collapsable: true,
                         children: modules_nl.map(file => `/nl/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
@@ -118,6 +118,16 @@ const options = {
         '/nl/': {
             lang: 'nl',
             title: 'LSS-Manager (V.3) Wiki 🇳🇱'
+        }
+    },
+    plugins: {
+        '@vuepress/back-to-top': {},
+        '@vuepress/last-updated': {
+            transformer(timestamp, lang) {
+                const moment = require('moment');
+                moment.locale(lang);
+                return moment(timestamp).fromNow();
+            }
         }
     }
 };
