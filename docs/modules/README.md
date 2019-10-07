@@ -37,8 +37,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Einsatzstichworte
 
-### Einsätze freigeben
-
 ### Einsätze suchen
 
 ### Erweiterte Gebäudeansicht
