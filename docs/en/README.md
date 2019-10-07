@@ -4,10 +4,10 @@ lang: en
 sidebarDepth: 2
 ---
 
-# Wiki :us: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :us: :gb: <Badge text="LSSM Stable 3.3.5"/>
 
 ## About the LSSM
-The LSS MANAGER V3 is an extension for missionchief.com
+The LSS MANAGER V3 is an extension for missionchief.com and missionchief.co.uk
 
 With this extension an appstore gets added to the game, which allows to install different Plugins. All the functions are build modular - so **you** can decide what you activate.
 

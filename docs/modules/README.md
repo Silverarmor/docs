@@ -37,8 +37,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Einsatzstichworte
 
-### Einsätze freigeben
-
 ### Einsätze suchen
 
 ### Erweiterte Gebäudeansicht
@@ -61,8 +59,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Maßgeschneiderte Tabs
 
-### Meldedatum für Einsätze
-
 ### Missionout
 
 ### NEF Nachforderung per FMS
@@ -73,17 +69,11 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Release Notes
 
-### Show Backalarm above
-
-### Show Chatbutton above
-
 ### Show Patient entlassen above
 
 ### Status-Zähler
 
 ### Summe für die tägliche Zusammenfassung
-
-### User-ID
 
 ### Verbandsverwaltung
 

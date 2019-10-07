@@ -62,7 +62,7 @@ const options = {
                 ],
             },
             '/en/': {
-                label: '🇺🇸 Missionchief.com',
+                label: '🇺🇸🇬🇧 Missionchief',
                 nav: [
                     {
                         text: 'Metadata',
@@ -113,7 +113,7 @@ const options = {
         },
         '/en/': {
             lang: 'en-US',
-            title: 'LSS-Manager (V.3) Wiki 🇺🇸'
+            title: 'LSS-Manager (V.3) Wiki 🇺🇸🇬🇧'
         },
         '/nl/': {
             lang: 'nl',
