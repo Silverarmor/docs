@@ -5,7 +5,7 @@ lang: de
 
 # Einsatzhelfer
 Du möchtest auf einen Blick alle wichtigen Infos zu einem Einsatz im Einsatzfenster haben? Der Einsatzhelfer ermöglicht dir genau das.
-Um dir so viel Freiheit wie möglich zu gewährleisten, haben wir den Einsatzhelfer mit vielen Einstellungen versehen. Ebenfalls geben wir dir die Möglichkeit zwischen zwei Modi auszuwählen.
+Um dir so viel Freiheit wie möglich zu gewährleisten, haben wir den Einsatzhelfer mit vielen [Einstellungen](/modules#einstellungen) versehen. Ebenfalls geben wir dir die Möglichkeit zwischen zwei Modi auszuwählen.
 :::warning Automatisches Erfassen und Fehlerhafte Einträge
 Unser System erfasst die Einsätze automatisch. Das heisst, wenn ein Einsatztyp (oder die Hilfe zu diesem Einsatztyp) das erste mal aufgerufen wird, so werden die Informationen in unserer Datei gespeichert. Dabei kann es immer passieren, dass eine Unregelmäßigkeit dazu führt, dass falsche oder unvollständige Daten erfasst werden. Ebenfalls bemerkt das System nicht, wenn ein Einsatztyp im Nachhinein geändert wird. Sollte dir ein Fehler auffallen, so melde ihn einfach, wie in [Fehler melden](/error_report) beschrieben. Wir sorgen dann dafür, dass der Fehler behoben wird und können ggf. sogar ein erneutes Auftreten dieses Fehlers verhindern.
 :::

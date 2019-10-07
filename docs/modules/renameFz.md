@@ -39,6 +39,6 @@ Auch eine Nummerierung nach Typ pro Wache ist in arabischen Ziffern über die Va
 
 ## Die Einstellungen
 
-In den Einstellungen kannst du die oben erwähnten Aliase festlegen.
+In den [Einstellungen](/modules#einstellungen) kannst du die oben erwähnten Aliase festlegen.
 
 Hierbei ist zwischen Fahrzeugtypen und Gebäuden aufgeteilt, um ein schnelleres Finden des gewollten Objektes zu ermöglichen.
