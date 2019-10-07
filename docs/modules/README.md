@@ -69,8 +69,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Release Notes
 
-### Show Backalarm above
-
 ### Show Patient entlassen above
 
 ### Status-Zähler
