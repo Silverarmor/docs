@@ -59,8 +59,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Maßgeschneiderte Tabs
 
-### Meldedatum für Einsätze
-
 ### Missionout
 
 ### NEF Nachforderung per FMS
@@ -80,8 +78,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 ### Status-Zähler
 
 ### Summe für die tägliche Zusammenfassung
-
-### User-ID
 
 ### Verbandsverwaltung
 
