@@ -54,6 +54,7 @@ const options = {
                     '/suggestions',
                     '/support',
                     '/error_report',
+                    '/faq',
                     {
                         title: 'Module 📦',
                         collapsable: true,
