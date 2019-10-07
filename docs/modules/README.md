@@ -71,8 +71,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### Show Backalarm above
 
-### Show Chatbutton above
-
 ### Show Patient entlassen above
 
 ### Status-Zähler
