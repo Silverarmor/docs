@@ -6,7 +6,7 @@ lang: de
 # Einsatzhelfer
 Du möchtest auf einen Blick alle wichtigen Infos zu einem Einsatz im Einsatzfenster haben? Der Einsatzhelfer ermöglicht dir genau das.
 Um dir so viel Freiheit wie möglich zu gewährleisten, haben wir den Einsatzhelfer mit vielen [Einstellungen](/modules#einstellungen) versehen. Ebenfalls geben wir dir die Möglichkeit zwischen zwei Modi auszuwählen.
-:::warning Automatisches Erfassen und Fehlerhafte Einträge
+::: warning Automatisches Erfassen und Fehlerhafte Einträge
 Unser System erfasst die Einsätze automatisch. Das heisst, wenn ein Einsatztyp (oder die Hilfe zu diesem Einsatztyp) das erste mal aufgerufen wird, so werden die Informationen in unserer Datei gespeichert. Dabei kann es immer passieren, dass eine Unregelmäßigkeit dazu führt, dass falsche oder unvollständige Daten erfasst werden. Ebenfalls bemerkt das System nicht, wenn ein Einsatztyp im Nachhinein geändert wird. Sollte dir ein Fehler auffallen, so melde ihn einfach, wie in [Fehler melden](/error_report) beschrieben. Wir sorgen dann dafür, dass der Fehler behoben wird und können ggf. sogar ein erneutes Auftreten dieses Fehlers verhindern.
 :::
 
@@ -15,7 +15,7 @@ Eine kurze Erläuterung, damit du alles genau verstehst. Zwischen den beiden Mod
 
 ![Mit dem Pin zwischen den Modi wechseln](/modules/missionhelper/pin.png)
 
-:::tip Übrigens
+::: tip Übrigens
 Der Einsatzhelfer merkt sich, in welchem Modus er ist und behält diesen so lange bei, bis du ihn wechselst.
 :::
 
@@ -33,7 +33,7 @@ Der neue, unangepinnte Modus schwebt als Overlay über den Inhalten des Alarmfen
 
 Ein Beispielhaftes Aussehen des Einsatzhelfers im unangepinnten Modus:
 ![Beispielhaftes Aussehen des Einsatzhelfers im unangepinnten Modus](/modules/missionhelper/unangepinnt.png)
-:::tip Schon gewusst?
+::: tip Schon gewusst?
 Im unangepinnten Modus kannst du den Einsatzhelfer an der gestrichelten Linie oben ziehen und verschieben, bis ihm schwindelig wird.
 
 Ein Klick auf den "Pfeil" ermöglicht es dir, den Einsatzhelfer zu minimieren bzw. maximieren. Auch diesen Zustand merkt sich der Einsatzhelfer und nimmt ihn an, wenn ein anderer Einsatz geöffnet wird.
@@ -71,7 +71,7 @@ Diese Einstellung ist standardmäßig `aktiv`
 Auch wenn dies der eigentliche Haupt-Inhalt des Einsatzhelfers ist, kann man auch die Anzeige der benötigten Fahrzeuge ausschalten. Hat man die Einstellung "Zeige 100% Wahrscheinlichkeit" nicht aktiviert, so werden nur Wahrscheinlichkeiten angezeigt, die nicht 100% sind.
 
 Diese Einstellung ist standardmäßig `aktiv`
-:::tip Sortierung der Fahrzeuge
+::: tip Sortierung der Fahrzeuge
 Die Fahrzeuge sind so sortiert, wie sie in der offiziellen Einsatzhilfe stehen. Die offizielle Einsatzhilfe ist über den Knopf "Hilfe zu diesem Einsatz" in der roten Leiste unten rechts vom Alarmfenster zu finden.
 :::
 
@@ -104,7 +104,7 @@ Diese Einstellung ist standardmäßig `aktiv`
 Einsätze können sich ausbreiten. Zumindest, wenn man das in den Einstellungen vom Spiel aktiviert hat. Um eine Übersicht darüber zu bekommen, zu was sich der Einsatz ausbreiten kann gibt es diese Einstellung.
 
 Diese Einstellung ist standardmäßig `aktiv`
-:::warning Mehrstufige Einsätze
+::: warning Mehrstufige Einsätze
 Der Einsatzhelfer beachtet derzeit nicht, dass sich Einsätze mehrfach ausbreiten können. Ist jedoch die Funktion gewünscht, dass auch weiterführende Ausbreitungen angezeigt werden, so mache doch einen Vorschlag, wie in [Vorschläge 💡](/suggestions) beschrieben.
 :::
 
