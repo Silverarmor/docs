@@ -3,6 +3,7 @@ const fs = require('fs');
 let modules_de = fs.readdirSync('./docs/modules');
 let modules_en = fs.readdirSync('./docs/en/modules');
 let modules_nl = fs.readdirSync('./docs/nl/modules');
+let modules_es = fs.readdirSync('./docs/es/modules');
 
 const options = {
     title: 'LSS-Manager (V.3) Wiki',
@@ -63,7 +64,7 @@ const options = {
                 ],
             },
             '/en/': {
-                label: '🇺🇸🇬🇧 Missionchief',
+                label: '🇺🇸🇬🇧🇦🇺 Missionchief',
                 nav: [
                     {
                         text: 'Metadata',
@@ -104,6 +105,23 @@ const options = {
                         children: modules_nl.map(file => `/nl/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
+            },
+            '/es/': {
+                label: '🇪🇸 Centro-de-mando.es',
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/es/'
+                        ]
+                    },
+                    {
+                        title: 'Módulos 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/es/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
             }
         },
     },
@@ -114,11 +132,15 @@ const options = {
         },
         '/en/': {
             lang: 'en-US',
-            title: 'LSS-Manager (V.3) Wiki 🇺🇸🇬🇧'
+            title: 'LSS-Manager (V.3) Wiki 🇺🇸🇬🇧🇦🇺'
         },
         '/nl/': {
             lang: 'nl',
             title: 'LSS-Manager (V.3) Wiki 🇳🇱'
+        },
+        '/es/': {
+            lang: 'es',
+            title: 'LSS-Manager (V.3) Wiki 🇪🇸'
         }
     },
     plugins: {
