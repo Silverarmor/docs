@@ -9,9 +9,9 @@ sidebarDepth: 2
 
 ## Über den LSSM
 
-Der LSS MANAGER V3 ist eine Erweiterung für das Spiel www.leitstellenspiel.de.
+Der LSS MANAGER V3 ist eine Erweiterung für das [Leitstellenspiel.de](www.leitstellenspiel.de) und dessen niederländische und Englische Versionen.
 
-Mit dieser Erweiterung wird ein Appstore zum Spiel hinzugefügt, welches das Installieren von Plugins ermöglicht. Dabei sind alle Funktionen modular aufgebaut - man kann bis auf den letzten Baustein bestimmen, was alles aktiviert werden soll.
+Mit dieser Erweiterung wird ein Appstore zum Spiel hinzugefügt, welcher das Installieren von Plugins ermöglicht. Dabei sind alle Funktionen modular aufgebaut - man kann bis auf den letzten Baustein bestimmen, was alles aktiviert werden soll.
 
 Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verwaltung natürlich sehr einfach und sorgt für eine bessere Performance.
 
@@ -19,7 +19,7 @@ Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verw
 ## Installation :inbox_tray:
 Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten.md)
 
-:::tip Den LSSM am Handy nutzen
+::: tip Den LSSM am Handy nutzen
 Offiziell unterstützen wir keine mobile Version. Jedoch bietet der Browser Firefox auch in seiner mobilen Version die Möglichkeit, Add-Ons zu nutzen. Wir übernehmen jeddoch keine Garantie für ein ansprechendes Design, sowie die volle Funktionalität bei mobilen Browsern.
 
 Eine offizielle Unterstützung mobiler Browser ist derzeit **nicht** geplant.

@@ -4,7 +4,7 @@ lang: en
 sidebarDepth: 2
 ---
 
-# Wiki :us: :gb: <Badge text="LSSM Stable 3.3.5"/>
+# Wiki :us: :gb: :australia: <Badge text="LSSM Stable 3.3.5"/>
 
 ## About the LSSM
 The LSS MANAGER V3 is an extension for missionchief.com and missionchief.co.uk
@@ -35,7 +35,7 @@ Please be aware that we don't officially support older browser as well as mobile
 ### Second Step: Userscript
 When you installed Tampermonkey successfully in you browser, you can click [here](https://github.com/LSS-Manager/lss-manager-v3/raw/master/lssm-v3.user.js) or create a new Userscript with the following content:
 
-<<< lssm-v3.user.js{4}
+<<< lssm-v3.user.js
 
 ### Third Step: Activate
 
