@@ -17,7 +17,9 @@ Plugins die nicht aktiviert sind, werden auch nicht geladen - das macht die Verw
 
 
 ## Installation :inbox_tray:
-Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten.md)
+Mit der Nutzung des LSSM bist du damit einverstanden, dass wir Metadaten erheben. Mehr Informationen hierzu findest du unter [Metadaten](./metadaten)
+
+Eine Tabelle mit welchen Browsern der LSSM kompatibel ist, findest du in unseren [FAQ](./faq#in-welchen-browsern-funktioniert-der-lss-manager)
 
 ::: tip Den LSSM am Handy nutzen
 Offiziell unterstützen wir keine mobile Version. Jedoch bietet der Browser Firefox auch in seiner mobilen Version die Möglichkeit, Add-Ons zu nutzen. Wir übernehmen jeddoch keine Garantie für ein ansprechendes Design, sowie die volle Funktionalität bei mobilen Browsern.

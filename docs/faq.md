@@ -9,6 +9,19 @@ sidebarDepth: 1
 ## Warum sollte ich den LSS-Manager nutzen? 
 Frag doch mal die Nutzer :wink:
 
+## In welchen Browsern funktioniert der LSS-Manager?
+Hier werden nur Desktop Browser aufgelistet, da mobile Browser nicht offiziell unterstützt werden.
+Diese Tabelle ist noch nicht umbedingt korrekt und wird bei neuen Informationen aktualisiert!
+::: warning Kompatibilität
+Eine hier aufgelistete Kompatibilität gewährleistet nich keine Funktionsweise. Dies sind nur Informationen, die von Drittanbietern zusammengetragen und ausgewertet wurden.
+:::
+Browser | mind. Version
+--------|--------
+Firefox | 54
+Chrome  | 51
+Safari  | 11
+Opera   | 38
+
 ## Ist die Nutzung AGB-Konform?
 Natürlich doch. Das Entwicklungsteam steht aber bei kritischen Situationen in engem Kontakt mit Sebastian und auch der Kontakt zur XYRALITY ist im Aufbau.
 
