@@ -55,8 +55,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 
 ### LS-Heatmap
 
-### Markiert Eventeinsätze
-
 ### Maßgeschneiderte Tabs
 
 ### Missionout
@@ -72,8 +70,6 @@ Die Einstellungen werden nur übernommen, wenn der "Speichern & Schliessen"-Knop
 ### Show Patient entlassen above
 
 ### Status-Zähler
-
-### Summe für die tägliche Zusammenfassung
 
 ### Verbandsverwaltung
 
