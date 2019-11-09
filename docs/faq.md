@@ -13,7 +13,7 @@ Frag doch mal die Nutzer :wink:
 Hier werden nur Desktop Browser aufgelistet, da mobile Browser nicht offiziell unterstützt werden.
 Diese Tabelle ist noch nicht umbedingt korrekt und wird bei neuen Informationen aktualisiert!
 ::: warning Kompatibilität
-Eine hier aufgelistete Kompatibilität gewährleistet nich keine Funktionsweise. Dies sind nur Informationen, die von Drittanbietern zusammengetragen und ausgewertet wurden.
+Eine hier aufgelistete Kompatibilität gewährleistet noch keine Funktionsweise. Dies sind nur Informationen, die von Drittanbietern zusammengetragen und ausgewertet wurden.
 :::
 Browser | mind. Version
 --------|--------
