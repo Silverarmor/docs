@@ -28,7 +28,7 @@ Opera  | [Download](https://addons.opera.com/en/extensions/details/tampermonkey-
 
 Voor andere browsers u kan Tampermonky downloaden van [tampermonkey.net](https://www.tampermonkey.net/)
 
-::: Waarschuwing
+::: warning
 Houd er rekening mee dat we officieel geen ondersteuning bieden voor oudere browsers en mobiele browsers en Microsoft Edge (Internet Explorer). Ondersteuning voor deze browsers is niet gegarandeerd of waarschijnlijk.
 :::
 
@@ -39,6 +39,6 @@ Wanneer u Tampermonkey succesvol in uw browser heeft geïnstalleerd, kunt u [hie
 
 ### Derde stap: Activeren
 
-Hierna volgt de indicator voor een actieve LSS-Manager:! [LSSM-Indikator] (/ img / lssm_navbar.png) Als je in meldkamerspel bent maar deze indicator niet in de rechterbovenhoek ziet, klik dan op het Tampermonkey-pictogram in je browser en controleer of de schakelaar voor LSS-Manager Script op "aan" staat.
+Hierna volgt de indicator voor een actieve LSS-Manager: ![LSSM-Indikator](/img/lssm_navbar.png) Als je in meldkamerspel bent maar deze indicator niet in de rechterbovenhoek ziet, klik dan op het Tampermonkey-pictogram in je browser en controleer of de schakelaar voor LSS-Manager Script op "aan" staat.
 
 Als u problemen ondervindt, kunt u contact opnemen met [support](/nl/support).
