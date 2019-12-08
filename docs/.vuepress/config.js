@@ -82,6 +82,7 @@ const options = {
                     '/en/suggestions',
                     '/en/support',
                     '/en/error_report',
+                    '/en/faq',
                     {
                         title: 'Modules 📦',
                         collapsable: true,
@@ -91,6 +92,12 @@ const options = {
             },
             '/nl/': {
                 label: '🇳🇱 Meldkamerspel.com',
+                nav: [
+                    {
+                        text: 'Metadata',
+                        link: '/nl/metadata'
+                    }
+                ],
                 sidebar: [
                     {
                         title: 'LSSM',
@@ -99,6 +106,9 @@ const options = {
                             '/nl/'
                         ]
                     },
+                    '/nl/suggestions',
+                    '/nl/support',
+                    '/nl/error_report',
                     {
                         title: 'Modules 📦',
                         collapsable: true,
@@ -108,6 +118,12 @@ const options = {
             },
             '/es/': {
                 label: '🇪🇸 Centro-de-mando.es',
+                nav: [
+                    {
+                        text: 'Metadatos',
+                        link: '/es/metadata'
+                    }
+                ],
                 sidebar: [
                     {
                         title: 'LSSM',
@@ -116,13 +132,146 @@ const options = {
                             '/es/'
                         ]
                     },
+                    '/es/suggestions',
+                    '/es/support',
+                    '/es/error_report',
                     {
                         title: 'Módulos 📦',
                         collapsable: true,
                         children: modules_es.map(file => `/es/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
                     }
                 ],
-            }
+            },
+            '/pl/': {
+                label: '🇵🇱 Operatorratunkowy.pl',
+                nav: [
+                    {
+                        text: 'Metadane',
+                        link: '/pl/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/pl/'
+                        ]
+                    },
+                    '/pl/suggestions',
+                    '/pl/support',
+                    '/pl/error_report',
+                    {
+                        title: 'Moduły 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/pl/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
+            },
+            '/se/': {
+                label: '🇸🇪 Larmcentralen-spelet.se',
+                nav: [
+                    {
+                        text: 'Metadata',
+                        link: '/se/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/se/'
+                        ]
+                    },
+                    '/se/suggestions',
+                    '/se/support',
+                    '/se/error_report',
+                    {
+                        title: 'Modules 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/se/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
+            },
+            '/it/': {
+                label: '🇮🇹 Operatore112.it',
+                nav: [
+                    {
+                        text: 'Metadati',
+                        link: '/it/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/it/'
+                        ]
+                    },
+                    '/it/suggestions',
+                    '/it/support',
+                    '/it/error_report',
+                    {
+                        title: 'Moduli 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/it/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
+            },
+            '/fr/': {
+                label: '🇫🇷 Operateur112.fr',
+                nav: [
+                    {
+                        text: 'Métadonnées',
+                        link: '/fr/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/fr/'
+                        ]
+                    },
+                    '/fr/suggestions',
+                    '/fr/support',
+                    '/fr/error_report',
+                    {
+                        title: 'Modules 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/fr/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
+            },
+            '/ru/': {
+                label: '🇷🇺 Dispetcher112.ru',
+                nav: [
+                    {
+                        text: 'Metadata',
+                        link: '/ru/metadata'
+                    }
+                ],
+                sidebar: [
+                    {
+                        title: 'LSSM',
+                        collapsable: false,
+                        children: [
+                            '/ru/'
+                        ]
+                    },
+                    '/ru/suggestions',
+                    '/ru/support',
+                    '/ru/error_report',
+                    {
+                        title: 'Modules 📦',
+                        collapsable: true,
+                        children: modules_es.map(file => `/ru/modules/${file.replace(/\..*?$/, '').replace(/README/, '')}`)
+                    }
+                ],
+            },
         },
     },
     locales: {
@@ -141,7 +290,27 @@ const options = {
         '/es/': {
             lang: 'es',
             title: 'LSS-Manager (V.3) Wiki 🇪🇸'
-        }
+        },
+        '/pl/': {
+            lang: 'pl',
+            title: 'LSS-Manager (V.3) Wiki 🇵🇱'
+        },
+        '/se/': {
+            lang: 'se',
+            title: 'LSS-Manager (V.3) Wiki 🇸🇪'
+        },
+        '/it/': {
+            lang: 'it',
+            title: 'LSS-Manager (V.3) Wiki 🇮🇹'
+        },
+        '/fr/': {
+            lang: 'fr',
+            title: 'LSS-Manager (V.3) Wiki 🇫🇷'
+        },
+        '/ru/': {
+            lang: 'ru',
+            title: 'LSS-Manager (V.3) Wiki 🇷🇺'
+        },
     },
     plugins: {
         '@vuepress/back-to-top': {},
