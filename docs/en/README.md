@@ -7,7 +7,7 @@ sidebarDepth: 2
 # Wiki :us: :gb: :australia: <Badge text="LSSM Stable 3.3.5"/>
 
 ## About the LSSM
-The LSS MANAGER V3 is an extension for missionchief.com and missionchief.co.uk
+The LSS MANAGER V3 is an extension for [missionchief.com](https://missionchief.com), [missionchief.co.uk](https://missionchief.co.uk) and [missionchief-australia.com](https://missionchief-australia.com).
 
 With this extension an appstore gets added to the game, which allows to install different Plugins. All the functions are build modular - so **you** can decide what you activate.
 
@@ -15,6 +15,14 @@ Plugins which are not activated will not be loaded - this increases the Performa
 
 ## Installation :inbox_tray:
 By using the LSSM you agree that we collect metadata. You can find more informations about what we collect [here](/en/metadata).
+
+We will soon provide a Table with compatible Browser in our [FAQ](./faq#in-welchen-browsern-funktioniert-der-lss-manager)
+
+::: tip Use the LSSM on mobile devices
+Officially we do not support a mobile version. The mobile Firefox supports using addons but we do not guarantee full functionality.
+
+An official support of mobile Browsers is currently **not** planned.
+:::
 
 ### First Step: Tampermonkey
 If you don't have Tampermonkey installed in your browser yet, you have to do so. Here is an overview of the links for the most common browsers:

@@ -7,7 +7,7 @@ sidebarDepth: 2
 # Wiki :netherlands: <Badge text="LSSM Stable 3.3.5"/>
 
 ## Over de LSSM
-De LSS MANAGER V3 is een uitbreiding voor meldkamerspel.com
+De LSS MANAGER V3 is een uitbreiding voor [meldkamerspel.com](https://meldkamerspel.com)
 
 Met deze extensie wordt een appstore aan de game toegevoegd, waarmee verschillende plug-ins kunnen worden geïnstalleerd. Alle functies zijn modulair opgebouwd - dus **u** kunt beslissen wat u activeert.
 
