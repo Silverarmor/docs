@@ -10,14 +10,14 @@ Um bei einem Einsatz direkt zu erkennen, dass er nur temporär ist, werden die f
 
 Event                | Prefix
 :-------------------:|:-----------:
-Vatertag             | [Vatertag]
-Muttertag            | [Muttertag]
-Ostern               | [OSTERN]
-Fußball-WM           | [WM]
-Sommer               | [SOMMER]
-Halloween            | [HALLOWEEN]
-Weihnachten / Winter | [X-MAS]
-Silvester            | [SILVESTER]
+Vatertag             | 🍺
+Muttertag            | 🌹
+Ostern               | 🥚
+Fußball-WM           | 🥅
+Sommer               | 🌞
+Halloween            | 🎃
+Weihnachten / Winter | 🎅
+Silvester            | 🧨
 
 :::tip Anpassen der Prefixe
 Derzeit ist es nicht geplant, dass die Prefixe über die Einstellungen angepasst werden können.
