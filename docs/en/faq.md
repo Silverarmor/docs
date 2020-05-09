@@ -26,6 +26,7 @@ Opera   | 38
 ## Is using LSSM TOS compliant?
 Yes. LSSM Developers are also in contact with game developers for any possible conflicts.
 
+
 ## I want to share my setup with friends or use it on multiple devices. Is that possible?
 Yes, there is a button in the [Settings](/modules#settings) for exporting and importing settings. You will get a file during the export which you can save and share. When importing, you can simply select this file from your computer.
 
