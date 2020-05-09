@@ -23,7 +23,7 @@ The App Store can be closed by clicking the `x` in the top right. Changes are sa
 There are a few modules that are not supported when MapKit is selected. This is because MapKit lacks some functionalities.
 For the same reason, there are also small restrictions for MapKit users on the game itself.
 
-Center-Map, Clock, LS-Heatmap, Overview, Request Transport in Map, and Station Status do not work with the Mapkit card type.
+`Center-Map`, `Clock`, `LS-Heatmap`, `Overview`, `Request Transport in Map`, and `Station Status` do not work with the Mapkit card type.
 :::
 
 ## Settings
