@@ -15,5 +15,5 @@ With dropdown, all AARs are moved into a dropdown menu.
 Dropdown mode can be enabled with a slider in the mission screen.
 
 :::danger 
-The Module [AAR Counter](Alarm Response Regulation Counter.md) does not work in Dropdown mode 
+The Module [AAR Counter](aarcounter.md) does not work in Dropdown mode 
 :::
