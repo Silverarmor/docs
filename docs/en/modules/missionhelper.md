@@ -58,7 +58,7 @@ Displays the following information within the helper:
 
 ### Prisoner Information
 Default: Active
-Displays the minimum and maxmimum number of prisoners.
+Displays the minimum and maximum number of prisoners.
 
 ### Other Information
 Unknown.
