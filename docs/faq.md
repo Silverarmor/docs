@@ -23,7 +23,7 @@ Safari  | 11
 Opera   | 38
 
 ## Ist die Nutzung AGB-Konform?
-Natürlich doch. Das Entwicklungsteam steht aber bei kritischen Situationen in engem Kontakt mit Sebastian und der XYRALITY.
+Natürlich doch. Das Entwicklungsteam steht aber bei kritischen Situationen in engem Kontakt mit der XYRALITY.
 
 ## Wieso werden meine Einstellungen und aktivierten AddOns nicht gespeichert?
 Das passiert nur, wenn in deinem Browser der `localStorage` geleert wird. Man kann das irgendwo in den Einstellungen des Browsers ändern (ist oft gleich mit den Cookie-Einstellungen).
